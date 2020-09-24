@@ -1,5 +1,5 @@
 # vuecalc
-
+# Simple calculator made with Vue.js
 ## Project setup
 ```
 npm install
